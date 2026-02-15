@@ -1,6 +1,5 @@
-# poo_2025_matunino_ecc
-Este repositório reúne projetos desenvolvidos durante a disciplina de Programação Orientada a Objetos (POO) em Java, com foco na aplicação prática de conceitos como classes, objetos, encapsulamento, herança, polimorfismo e abstração.
+# Programação Orientada a Objetos | Java
 
-Os projetos vão desde sistemas simples de cadastro e manipulação de dados até programas mais complexos com múltiplas classes e interações entre objetos, permitindo compreender a organização, modularidade e reutilização de código. Cada projeto inclui comentários explicativos, mostrando a função de cada classe e método, e aborda boas práticas de programação, tratamento de exceções e uso de coleções para armazenar e gerenciar objetos.
+Este repositório reúne projetos desenvolvidos durante a disciplina de POO, com foco na transição da lógica estruturada para o paradigma orientado a objetos. O trabalho consistiu na aplicação prática de conceitos como classes, objetos, encapsulamento, herança, polimorfismo e abstração.
 
-Este repositório é ideal para estudantes que desejam praticar POO, reforçar conceitos teóricos em situações reais e aprender a projetar sistemas claros, eficientes e escaláveis em Java.
+Os projetos abrangem desde sistemas de cadastro e manipulação de dados até programas complexos com múltiplas classes e interações entre objetos. O desenvolvimento priorizou a organização, modularidade e reutilização de código, utilizando coleções para o gerenciamento de objetos. Cada projeto conta com comentários explicativos sobre a função de cada classe e método, reforçando a integração entre teoria e prática.
